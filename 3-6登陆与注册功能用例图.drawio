@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" modified="2023-05-12T06:32:24.205Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Mk9TYlgRkBgEjgWJZlqN" version="21.2.9" type="github">
+  <diagram name="第 1 页" id="uwHExd9-VC8fvrQW-kaj">
+    <mxGraphModel dx="954" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OKMWDXngPsk2a8uxrAY7-6" target="OKMWDXngPsk2a8uxrAY7-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OKMWDXngPsk2a8uxrAY7-6" target="OKMWDXngPsk2a8uxrAY7-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="OKMWDXngPsk2a8uxrAY7-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-6" value="买家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OKMWDXngPsk2a8uxrAY7-8" target="OKMWDXngPsk2a8uxrAY7-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OKMWDXngPsk2a8uxrAY7-8" target="OKMWDXngPsk2a8uxrAY7-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OKMWDXngPsk2a8uxrAY7-8" target="OKMWDXngPsk2a8uxrAY7-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-8" value="卖家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-3" value="账号注册" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="239.99666666666667" y="139.99529411764706" width="83.77777777777777" height="35.294117647058826" as="geometry" />
+        </mxCell>
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-4" value="账号登陆" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="239.99666666666667" y="222.35294117647055" width="83.77777777777777" height="35.294117647058826" as="geometry" />
+        </mxCell>
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-5" value="密码重置" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="239.99666666666667" y="300.0005882352941" width="83.77777777777777" height="35.294117647058826" as="geometry" />
+        </mxCell>
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-13" value="账号注册" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="389.99666666666667" y="139.99529411764706" width="83.77777777777777" height="35.294117647058826" as="geometry" />
+        </mxCell>
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-14" value="账号登陆" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="389.99666666666667" y="222.35529411764705" width="83.77777777777777" height="35.294117647058826" as="geometry" />
+        </mxCell>
+        <mxCell id="OKMWDXngPsk2a8uxrAY7-15" value="密码重置" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="389.99666666666667" y="300.00529411764705" width="83.77777777777777" height="35.294117647058826" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
