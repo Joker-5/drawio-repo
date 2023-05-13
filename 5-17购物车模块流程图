@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T04:58:29.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.9" etag="3a4SZbLmB8YycDyADfzl" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T05:02:12.360Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Xbozwaz8Qra0zwq_17ej" version="21.2.9" type="github">
   <diagram name="第 1 页" id="bPusVcKP_uv-fk2EEDcF">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0BHXTvTxtIV6n-5397Md-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0BHXTvTxtIV6n-5397Md-12" target="0BHXTvTxtIV6n-5397Md-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0BHXTvTxtIV6n-5397Md-12" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="169.5" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0BHXTvTxtIV6n-5397Md-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0BHXTvTxtIV6n-5397Md-14" target="0BHXTvTxtIV6n-5397Md-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0BHXTvTxtIV6n-5397Md-14" value="进入购物车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169.5" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0BHXTvTxtIV6n-5397Md-23" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="169.5" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0BHXTvTxtIV6n-5397Md-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0BHXTvTxtIV6n-5397Md-30" target="0BHXTvTxtIV6n-5397Md-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0BHXTvTxtIV6n-5397Md-30" value="买家登陆电商交易云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162" y="120" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0BHXTvTxtIV6n-5397Md-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0BHXTvTxtIV6n-5397Md-32" target="0BHXTvTxtIV6n-5397Md-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0BHXTvTxtIV6n-5397Md-32" value="浏览商品信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163.25" y="220" width="132.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0BHXTvTxtIV6n-5397Md-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0BHXTvTxtIV6n-5397Md-34" target="0BHXTvTxtIV6n-5397Md-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0BHXTvTxtIV6n-5397Md-34" value="添加商品至购物车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="300" width="132.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0BHXTvTxtIV6n-5397Md-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0BHXTvTxtIV6n-5397Md-35" target="0BHXTvTxtIV6n-5397Md-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0BHXTvTxtIV6n-5397Md-35" value="修改购物车商品数量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169.5" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
